@@ -1,0 +1,26 @@
+.content-side__list-item{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 13px;
+  padding-right: 15px;
+}
+.content-side__list-item_img{
+  width: 30px;
+  height: 30px;
+}
+.content-side__list-item_title{
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  color: rgb(10, 20, 58);
+  margin-bottom: 5px;
+  margin-top: 7px;
+}
+.content-side__list-item_text{
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: normal;
+  color: rgb(10, 20, 58);
+  margin: 0;
+}
